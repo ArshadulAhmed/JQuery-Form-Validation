@@ -23,7 +23,14 @@ function validate(field){
         error = true;
         error_message = 'Empty Field';  
 		
-    } else if ( field.hasClass('valid-name') && valid_name(value) == false ) {
+    } 
+	
+	
+	
+	
+	
+	
+	else if ( field.hasClass('valid-name') && valid_name(value) == false ) {
         error = true;
         error_message = 'Enter Charecters Only';
 		
@@ -86,9 +93,14 @@ function valid_text(value){
 
 $('#validate').click(function () {
     if (validateAll()) {
-        alert(valid_phone(value));
+        alert("Valid Input");
+		
+		//You can perform other task here on validation 
+		
+		
     } else {
         alert("Not valid");
+		
     }
 });
 });
