@@ -1,0 +1,203 @@
+
+/********************************/
+/*		Smile-Gallery-1        */
+
+#Smile-Gallery-1{
+	padding:20px 0;
+}
+
+#Smile-Gallery-1 h3 {
+    margin: 10px 0;
+    font-size: 36px;
+}
+
+#Smile-Gallery-1 img{
+	margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 1px #777777 inset, 0 0 0 2px #ffffff inset, 0 0 0 3px #777777 inset, 4px 4px 2px #d2d2d2;
+    padding: 4px;
+}
+
+/*		Smile-Gallery-1         */
+/********************************/
+
+
+
+
+/********************************/
+/*		Smile-Gallery-2        */
+
+#Smile-Gallery-2{
+	padding:20px 0;
+}
+
+#Smile-Gallery-2 h3 {
+    margin: 10px 0;
+    font-size: 36px;
+}
+
+#Smile-Gallery-2 img{
+	margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 1px #777777 inset, 0 0 0 2px #ffffff inset, 0 0 0 3px #777777 inset, 4px 4px 2px #d2d2d2;
+    padding: 4px;
+}
+
+/*		Smile-Gallery-2         */
+/********************************/
+
+
+
+
+/********************************/
+/*		Smile-Gallery-3        */
+
+#Smile-Gallery-3{
+	padding:20px 0;
+}
+
+#Smile-Gallery-3 #myTab {
+    display:block;
+	text-align:center;
+}
+
+#Smile-Gallery-3 #myTab li{
+    display:inline-block;
+	float:none;
+}
+
+#Smile-Gallery-3 img{
+	margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 1px #777777 inset, 0 0 0 2px #ffffff inset, 0 0 0 3px #777777 inset, 4px 4px 2px #d2d2d2;
+    padding: 4px;
+}
+
+/*		Smile-Gallery-2         */
+/********************************/
+
+
+
+
+
+
+/********************************/
+/*		Smile-Gallery-4        */
+
+#Smile-Gallery-4{
+	padding:20px 0;
+}
+
+#Smile-Gallery-4 h3 {
+    margin: 10px 0;
+    font-size: 36px;
+}
+
+#Smile-Gallery-4 img{
+    margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 1px #777777 inset, 0 0 0 2px #ffffff inset, 0 0 0 3px #777777 inset, 4px 4px 2px #d2d2d2;
+    padding: 4px;
+}
+
+#Smile-Gallery-4 #DentalCrowns .item, 
+#Smile-Gallery-4 #DentalImplants .item,
+#Smile-Gallery-4 #Lumineers .item,
+#Smile-Gallery-4 #Orthodontics .item,
+#Smile-Gallery-4 #Veneers .item
+{
+    margin:10px !important;
+}
+#Smile-Gallery-4 #DentalCrowns .item img, 
+#Smile-Gallery-4 #DentalImplants .item img,
+#Smile-Gallery-4 #Lumineers .item img,
+#Smile-Gallery-4 #Orthodontics .item img,
+#Smile-Gallery-4 #Veneers .item img
+{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/*		Smile-Gallery-4         */
+/********************************/
+
+
+
+
+
+/********************************/
+/*		Smile-Gallery-5        */
+#Smile-Gallery-5{
+
+}
+
+#Smile-Gallery-5 h3 {
+    margin: 10px 0;
+    font-size: 36px;
+}
+
+#Smile-Gallery-5 .twentytwenty-wrapper {
+    margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 1px #777777 inset, 0 0 0 2px #ffffff inset, 0 0 0 3px #777777 inset, 4px 4px 2px #d2d2d2;
+    padding: 4px;
+}
+
+#Smile-Gallery-5 .twentytwenty-container {
+
+}
+/*		Smile-Gallery-5         */
+/********************************/
+
+
+
+
+
+/********************************/
+/*		Smile-Gallery-6        */
+#Smile-Gallery-6{
+
+}
+
+#Smile-Gallery-6 h3 {
+    margin: 10px 0;
+    font-size: 36px;
+}
+
+#Smile-Gallery-6 img{
+	margin: 10px 0;
+    background-color: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 0 0 1px #777777 inset, 0 0 0 2px #ffffff inset, 0 0 0 3px #777777 inset, 4px 4px 2px #d2d2d2;
+    padding: 4px;
+}
+
+#Smile-Gallery-6 #Dental-Crowns-3d,
+#Smile-Gallery-6 #Dental-Implants-3d,
+#Smile-Gallery-6 #Lumineers-3d,
+#Smile-Gallery-6 #Orthodontics-3d,
+#Smile-Gallery-6 #Veneers-3d  {
+    height: 350px;
+    padding: 35px 0;
+	visibility:hidden
+}
+
+#Smile-Gallery-6 #Dental-Crowns-3d img,
+#Smile-Gallery-6 #Dental-Implants-3d  img,
+#Smile-Gallery-6 #Lumineers-3d img,
+#Smile-Gallery-6 #Orthodontics-3d img,
+#Smile-Gallery-6 #Veneers-3d img {
+  cursor: pointer;
+}
+
+#Smile-Gallery-6 .noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+/*		Smile-Gallery-6         */
+/********************************/
+
